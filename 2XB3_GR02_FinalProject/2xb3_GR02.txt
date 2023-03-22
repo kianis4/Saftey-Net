@@ -1,0 +1,9 @@
+COMP SCI 2XB3
+Sunny Bhatt, 400190373, Developer/Tester
+Nikola Milanovic, 400171310, Team Leader, Developer, Maintainer
+Senan Gohar, 400131114, Developer
+Suleyman Kiani, 400189668, Developer	
+
+2020-04-13 The work being submitted is my own group work.
+
+The application's entry point is main() in Interface.java.
